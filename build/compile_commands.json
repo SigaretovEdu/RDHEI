@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/sigaretov/src/project_insert_into_image/build",
+  "command": "/usr/bin/c++ -DGTEST_LINKED_AS_SHARED_LIBRARY=1 -isystem /usr/include/opencv4  -o CMakeFiles/sol.dir/main.cpp.o -c /home/sigaretov/src/project_insert_into_image/main.cpp",
+  "file": "/home/sigaretov/src/project_insert_into_image/main.cpp"
+},
+{
+  "directory": "/home/sigaretov/src/project_insert_into_image/build",
+  "command": "/usr/bin/c++ -DGTEST_LINKED_AS_SHARED_LIBRARY=1 -isystem /usr/include/opencv4  -o CMakeFiles/sol.dir/tests.cpp.o -c /home/sigaretov/src/project_insert_into_image/tests.cpp",
+  "file": "/home/sigaretov/src/project_insert_into_image/tests.cpp"
+}
+]

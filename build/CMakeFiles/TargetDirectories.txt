@@ -1,0 +1,3 @@
+/home/sigaretov/src/project_insert_into_image/build/CMakeFiles/sol.dir
+/home/sigaretov/src/project_insert_into_image/build/CMakeFiles/edit_cache.dir
+/home/sigaretov/src/project_insert_into_image/build/CMakeFiles/rebuild_cache.dir
